@@ -60,14 +60,14 @@ My expertise lies in architecting the complete lifecycle of ML applications-from
     </tr>
     <tr>
       <td align="center" valign="top">
-        <strong>AI / MLOps</strong>
-        <br><br>
-        <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img height="40" src="./assets/icon/pytorch-dark.svg" alt="PyTorch"/></a>&nbsp;&nbsp;
-        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img height="40" src="./assets/icon/tensorflow.svg" alt="TensorFlow"/></a>&nbsp;&nbsp;
-        <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img height="40" src="./assets/icon/langchain.svg" alt="LangChain"/></a>&nbsp;&nbsp;
-        <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img height="40" src="./assets/icon/mlflow.svg" alt="MLflow"/></a>&nbsp;&nbsp;
-        <a href="https://airflow.apache.org/use-cases/" target="_blank" rel="noreferrer"><img height="40" src="./assets/icon/airflow-icon.svg" alt="Apache Airflow"/></a>
-      </td>
+  <strong>AI / MLOps</strong>
+  <br><br>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img height="40" src="./assets/icon/pytorch-dark.svg" alt="PyTorch"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img height="40" src="./assets/icon/tensorflow.svg" alt="TensorFlow"/></a>
+  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img height="40" src="./assets/icon/langchain.svg" alt="LangChain"/></a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img height="40" src="./assets/icon/mlflow.svg" alt="MLflow"/></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img height="40" src="./assets/icon/airflow-icon.svg" alt="Apache Airflow"/></a>
+</td>
       <td align="center" valign="top">
         <strong>Cloud & DevOps</strong>
         <br><br>
