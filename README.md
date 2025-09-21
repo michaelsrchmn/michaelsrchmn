@@ -3,9 +3,9 @@
 
 ### Hi there, I'm Michael 👋
 
-I'm a Software Engineer with a deep focus on MLOps, dedicated to building scalable systems that bring machine learning models to life.
+I'm an MLOps Engineer dedicated to bridging the gap between machine learning models and real-world impact. 
 
-My expertise lies in architecting the complete lifecycle of ML applications: from data pipelines and model fine-tuning to orchestrated deployment and real-time monitoring. I thrive on solving the complex challenges of deploying robust and production-ready solutions.
+I architect and build the end-to-end infrastructure for ML applications, mastering everything from data pipelines and model optimization to scalable deployment and continuous monitoring. My passion lies in solving the critical last-mile problems of MLOps to deliver robust, production-ready AI solutions.
 
 <p align="center">
   <img src="./assets/gifs/Orchestrator.gif" alt="Orchestrator GIF" width="950"/>
