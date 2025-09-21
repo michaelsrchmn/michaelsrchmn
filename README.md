@@ -31,7 +31,7 @@ My expertise lies in architecting the complete lifecycle of ML applications-from
 * Deploying and scaling models in production using Kubernetes & Docker.
 * Architecting end-to-end MLOps solutions from the ground up.
 
-...or anything else related to bringing Machine Learning model from prototype to production! Feel free to reach out.
+...or anything else related to bringing machine learning model from prototype to production! Feel free to reach out.
 <br/>
 
 ---
